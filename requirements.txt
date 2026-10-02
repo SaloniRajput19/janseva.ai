@@ -1,0 +1,14 @@
+langchain
+langchain-text-splitters
+langgraph
+supabase
+fastembed
+pydantic
+python-dotenv
+httpx
+tenacity
+streamlit
+groq
+edge-tts
+gTTS
+pytest
